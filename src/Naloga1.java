@@ -17,7 +17,7 @@ public class Naloga1 {
     }
 
     public static void naloga1_1() {
-        /* Instructions available here: https://adventofcode.com/2024/day/1 */
+        /* Instructions available here: https://adventofcode.com/2025/day/1 */
 
         List<String> input = getInput();
         int current = 50;
